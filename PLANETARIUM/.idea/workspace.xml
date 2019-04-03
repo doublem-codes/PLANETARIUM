@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5817c5f-d124-41f1-8c94-8e7356750e6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/PLANETARIUM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/CelestialBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/SystemStar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/SystemStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/TypeOfCelestianBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/UniBSFpLib/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/UniBSFpLib/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/Utilty$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/Utilty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/it/unibs/fp/mylib/BelleStringhe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/it/unibs/fp/mylib/EstrazioniCasuali.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/it/unibs/fp/mylib/InputDati.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/it/unibs/fp/mylib/MyMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/it/unibs/fp/mylib/NumeriCasuali.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/out/production/PLANETARIUM/it/unibs/fp/mylib/ServizioFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/CelestialBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/SystemStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/TypeOfCelestianBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/BelleStringhe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/EstrazioniCasuali.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/InputDati.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/MyMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/NumeriCasuali.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/ServizioFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/src/it/unibs/fp/mylib/BelleStringhe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/src/it/unibs/fp/mylib/EstrazioniCasuali.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/src/it/unibs/fp/mylib/InputDati.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/src/it/unibs/fp/mylib/MyMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/src/it/unibs/fp/mylib/NumeriCasuali.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/UniBSFpLib/src/it/unibs/fp/mylib/ServizioFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v5.0/src/Utilty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/PLANETARIUM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/CelestialBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/Id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/SystemStar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/SystemStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/TypeOfCelestianBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/UniBSFpLib/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/UniBSFpLib/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/Utilty$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/Utilty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/it/unibs/fp/mylib/BelleStringhe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/it/unibs/fp/mylib/EstrazioniCasuali.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/it/unibs/fp/mylib/InputDati.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/it/unibs/fp/mylib/MyMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/it/unibs/fp/mylib/NumeriCasuali.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/out/production/PLANETARIUM/it/unibs/fp/mylib/ServizioFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/CelestialBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/Id.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/SystemStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/TypeOfCelestianBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/BelleStringhe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/EstrazioniCasuali.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/InputDati.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/MyMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/NumeriCasuali.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/bin/it/unibs/fp/mylib/ServizioFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/src/it/unibs/fp/mylib/BelleStringhe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/src/it/unibs/fp/mylib/EstrazioniCasuali.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/src/it/unibs/fp/mylib/InputDati.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/src/it/unibs/fp/mylib/MyMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/src/it/unibs/fp/mylib/NumeriCasuali.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/UniBSFpLib/src/it/unibs/fp/mylib/ServizioFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLANETARIUM v8.0/src/Utilty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SystemStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SystemStar.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SystemStar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2860">
+              <caret line="284" column="82" lean-forward="true" selection-start-line="284" selection-start-column="82" selection-end-line="284" selection-end-column="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#addCelestialBody#0;class#SystemStar#0" />
+                <element signature="method#deleteCelestianBody#0;class#SystemStar#0" />
+                <element signature="method#findIndexCelestianBody#0;class#SystemStar#0" />
+                <element signature="method#calculateMiddle#0;class#SystemStar#0" />
+                <element signature="method#findCelestialBody#0;class#SystemStar#0" />
+                <element signature="method#findIndexPlanet#0;class#SystemStar#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CelestialBody.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Utilty.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="161" column="32" selection-start-line="161" selection-start-column="32" selection-end-line="161" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/State.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Info.java" />
+        <option value="$PROJECT_DIR$/src/Type.java" />
+        <option value="$PROJECT_DIR$/src/System.java" />
+        <option value="$PROJECT_DIR$/src/Moon.java" />
+        <option value="$PROJECT_DIR$/src/Planet.java" />
+        <option value="$PROJECT_DIR$/src/TypeOfCelestianBody.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Point.java" />
+        <option value="$PROJECT_DIR$/src/Id.java" />
+        <option value="$PROJECT_DIR$/src/State.java" />
+        <option value="$PROJECT_DIR$/src/Utilty.java" />
+        <option value="$PROJECT_DIR$/src/CelestialBody.java" />
+        <option value="$PROJECT_DIR$/src/SystemStar.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="49" />
+    <option name="y" value="88" />
+    <option name="width" value="1260" />
+    <option name="height" value="557" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PLANETARIUM vFINALfinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PLANETARIUM vFINALfinal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PLANETARIUM vFINALfinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PLANETARIUM vFINALfinal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PLANETARIUM vFINALfinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554230119983" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PLANETARIUM" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5817c5f-d124-41f1-8c94-8e7356750e6e" name="Default Changelist" comment="" />
+      <created>1553607409905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553607409905</updated>
+      <workItem from="1553607414457" duration="4764000" />
+      <workItem from="1553637927011" duration="431000" />
+      <workItem from="1553685887197" duration="9716000" />
+      <workItem from="1553786165999" duration="1778000" />
+      <workItem from="1553854771052" duration="1650000" />
+      <workItem from="1553857763584" duration="79000" />
+      <workItem from="1553858037092" duration="63000" />
+      <workItem from="1553874274195" duration="4179000" />
+      <workItem from="1553887165399" duration="937000" />
+      <workItem from="1553948301217" duration="868000" />
+      <workItem from="1553949448359" duration="2064000" />
+      <workItem from="1553957771321" duration="21000" />
+      <workItem from="1553957811221" duration="3351000" />
+      <workItem from="1553961648886" duration="1549000" />
+      <workItem from="1554030217074" duration="2520000" />
+      <workItem from="1554038552747" duration="164000" />
+      <workItem from="1554103801203" duration="15000" />
+      <workItem from="1554103846847" duration="2232000" />
+      <workItem from="1554106292377" duration="142000" />
+      <workItem from="1554107078157" duration="1039000" />
+      <workItem from="1554108416189" duration="534000" />
+      <workItem from="1554109060754" duration="5070000" />
+      <workItem from="1554117937051" duration="36000" />
+      <workItem from="1554118211388" duration="7316000" />
+      <workItem from="1554126861184" duration="9371000" />
+      <workItem from="1554189754395" duration="3993000" />
+      <workItem from="1554193949826" duration="1729000" />
+      <workItem from="1554208203638" duration="6295000" />
+      <workItem from="1554229778817" duration="342000" />
+      <workItem from="1554316622107" duration="37000" />
+      <workItem from="1554316678016" duration="662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73018000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="49" y="27" width="1317" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="simpleUML" order="0" sideWeight="0.49861497" weight="0.32956383" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23210071" />
+      <window_info id="Structure" order="2" sideWeight="0.50138503" side_tool="true" weight="0.32956383" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.05033557" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5249308" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32718122" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Star.java" />
+    <entry file="file://$PROJECT_DIR$/src/Info.java" />
+    <entry file="file://$PROJECT_DIR$/../intellijidea/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/../z/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/System.java" />
+    <entry file="file://$PROJECT_DIR$/src/UniBSFpLib/Moon.java" />
+    <entry file="file://$PROJECT_DIR$/src/Type.java" />
+    <entry file="file://$PROJECT_DIR$/src/Moon.java" />
+    <entry file="file://$PROJECT_DIR$/src/Planet.java" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/util/Objects.java" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/UniBSFpLib/src/it/unibs/fp/mylib/InputDati.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TypeOfCelestianBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/ref/Reference.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileInputStream.java" />
+    <entry file="file://$PROJECT_DIR$/src/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding>
+            <element signature="method#Point#0;class#Point#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Utilty">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Utilty</OriginalElement>
+          <nodes>
+            <node x="" y="">Utilty</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="41.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/edoardomirandola/Desktop/PLANETARIUM vFINAL/src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="437.0" y="314.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../UML" />
+    <entry file="file://$PROJECT_DIR$/src/Untitled" />
+    <entry file="file://$PROJECT_DIR$/src/Id.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="866.0" y="1136.0">com</node>
+            <node x="188.0" y="1136.0">images</node>
+            <node x="0.0" y="1136.0">netscape</node>
+            <node x="0.0" y="493.0">SystemStar</node>
+            <node x="155.0" y="1210.0">org</node>
+            <node x="223.0" y="832.0">TypeOfCelestianBody</node>
+            <node x="737.0" y="1062.0">UniBSFpLib</node>
+            <node x="0.0" y="1062.0">toolbarButtonGraphics</node>
+            <node x="0.0" y="832.0">Point</node>
+            <node x="0.0" y="1210.0">sun</node>
+            <node x="308.0" y="1210.0">jdk</node>
+            <node x="940.0" y="1062.0">META-INF</node>
+            <node x="538.0" y="1136.0">apple</node>
+            <node x="507.0" y="1062.0">groovyjarjarasm</node>
+            <node x="1024.0" y="1136.0">java</node>
+            <node x="363.0" y="1136.0">groovy</node>
+            <node x="703.0" y="1136.0">javax</node>
+            <node x="479.0" y="493.0">State</node>
+            <node x="1010.1625573078087" y="105.85144520301745">Utilty</node>
+            <node x="380.0" y="0.0">CelestialBody</node>
+            <node x="678.0" y="832.0">groovyjarjarcommonscli</node>
+            <node x="685.0" y="493.0">Id</node>
+            <node x="274.0" y="1062.0">groovyjarjarantlr</node>
+            <node x="-20.144059603497112" y="12.631405650716658">Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7652233736123895" x="680.0" y="409.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CelestialBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utilty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="161" column="32" selection-start-line="161" selection-start-column="32" selection-end-line="161" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2860">
+          <caret line="284" column="82" lean-forward="true" selection-start-line="284" selection-start-column="82" selection-end-line="284" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addCelestialBody#0;class#SystemStar#0" />
+            <element signature="method#deleteCelestianBody#0;class#SystemStar#0" />
+            <element signature="method#findIndexCelestianBody#0;class#SystemStar#0" />
+            <element signature="method#calculateMiddle#0;class#SystemStar#0" />
+            <element signature="method#findCelestialBody#0;class#SystemStar#0" />
+            <element signature="method#findIndexPlanet#0;class#SystemStar#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
